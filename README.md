@@ -70,8 +70,8 @@ Ready to plug into any dashboard, model, or SQL database.
 
 ## How to Run It
 
-    git clone https://github.com/curtisf157-star/fifa-data-cleaning.git
-    cd fifa-data-cleaning
+    git clone https://github.com/curtisf157-star/FIFA21-data-cleaning.git
+    cd FIFA21-data-cleaning
     python -m venv venv
     venv\Scripts\activate
     pip install pandas
